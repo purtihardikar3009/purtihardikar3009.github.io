@@ -1,0 +1,139 @@
+body {
+  position: relative;
+  height: 60vh;
+  width: 30%;
+}
+
+#gif-wrap {
+  position: relative;
+  width: 400px;
+  height: 400px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin-left: 20px;
+  margin-top: 10px;
+  background-color: #000;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: -1;
+}
+
+#new-gif {
+
+  padding: 0.75rem 2.5rem;
+  font-weight: 600;
+  background: #424242;
+  z-index: 10;
+  color: #fff;
+  border-radius: 30px;
+  border: 0;
+  font-size: 14px;
+  position: relative;
+  top: 0.5rem;
+  left: 0.5rem;
+  transition: background 0.15s ease;
+  cursor: pointer;
+}
+#new-gif:hover {
+  background: #626262;
+}
+
+
+
+
+#restart {
+  padding: 0.75rem 2.5rem;
+  font-weight: 600;
+  background: #ffffff;
+  z-index: 10;
+  color: #fff;
+  border-radius: 30px;
+  border: 0;
+  font-size: 14px;
+  position: relative;
+  top: 0.5rem;
+  left: 0.5rem;
+  transition: background 0.15s ease;
+  cursor: pointer;
+}
+#restart:hover {
+  background: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#app
+{
+  display: flex;
+  flex-direction: row;
+}
+
+    font-family: 'Courier New', Courier, monospace;
+    color: #3f0a0a;
+    text-align: center;}
+  body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: rgba(253, 232, 39, 0.925);}
+  #content {
+    overflow: auto;
+    height: 100%;}
+  #feature, #footer {
+    background-color:rgba(253, 232, 39, 0.925);
+    padding: 10px;
+    margin: 10px;}
+  .column1, .column2, .column3 {
+    background-color: #efefef;
+    width: 300px;
+    float: left;
+    margin: 10px;}
+  li {
+    display: inline;
+    padding: 5px;}
+
+
+    li {
+				display: inline;
+				padding: 5px;}
+
+				h1 { font-family: monospace; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 800; line-height: 26.4px; text-align: center } 
+        h2 { font-family: monospace; font-size: 20px; font-style: normal; font-variant: normal; font-weight: 600; line-height: 23.4px; color: red; } 
+				h3 { font-family: monospace; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } 
+				p { font-family: monospace; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; text-align: left; } 
+				blockquote { font-family: monospace; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } 
+        pre { font-family: monospace; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
+        
+
+.class { 
+  font-family: monospace; 
+
+}
+
+h1 {
+  text-align: center
+}
+
